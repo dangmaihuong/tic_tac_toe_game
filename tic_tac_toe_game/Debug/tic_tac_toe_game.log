@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\dangm\source\repos\tic_tac_toe_game\main.c(97,17): warning C4101:  'pos': unreferenced local variable
+  tic_tac_toe_game.vcxproj -> C:\Users\dangm\source\repos\tic_tac_toe_game\Debug\tic_tac_toe_game.exe
